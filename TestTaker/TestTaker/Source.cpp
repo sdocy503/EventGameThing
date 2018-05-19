@@ -25,6 +25,7 @@ int main() {
 	}
 }
 
+
 void Questions()
 {
 	vector <string> questions; //There are 5 questions, each questions has its own line
