@@ -21,9 +21,9 @@ int main() {
 	cin >> Input;
 }
 
-void Question1()
+void Question1(string Question,string QwencersA, string QwencersB, string QwencersC, string QwencersD)
 {
-//	cout << 
-	cout << "Your choices are\nA: Happy\nB: Lappy\n"; // The Question
+	cout << Question;
+	cout << "Your choices are\nA:" + QwencersA+"\nB: Lappy\n"; // The Question
 }
 
