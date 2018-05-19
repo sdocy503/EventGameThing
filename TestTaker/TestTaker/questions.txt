@@ -1,0 +1,5 @@
+Which of the following uses C++ to program in?
+What number to arrays start at?
+Is this code correct? (cout << Hello World;) If not why?
+What's the name of a variable type used to store a single letter?
+What goes at the end of a non-void function to say that you're done?
