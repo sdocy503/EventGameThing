@@ -23,5 +23,11 @@
     <Text Include="questions.txt">
       <Filter>Source Files</Filter>
     </Text>
+    <Text Include="wrongAnswers.txt">
+      <Filter>Source Files</Filter>
+    </Text>
+    <Text Include="correctAnswers.txt">
+      <Filter>Source Files</Filter>
+    </Text>
   </ItemGroup>
 </Project>

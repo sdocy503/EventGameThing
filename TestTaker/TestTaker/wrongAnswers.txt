@@ -1,0 +1,15 @@
+Unity
+Android Studio
+Scratch
+1
+10
+100
+Yes
+No, it's missing a semicolin
+No, the arrows are pointing the wrong way
+String
+Integer
+Double
+Nothing
+Done();
+Exit();

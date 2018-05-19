@@ -1,0 +1,5 @@
+Visual Studio
+0
+No, there are not quotes around "Hello World"
+Character
+return
